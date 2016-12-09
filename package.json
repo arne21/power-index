@@ -1,0 +1,16 @@
+{
+  "name": "power-index",
+  "version": "0.1.0",
+  "description": "straightforward calculation of Shapley-Shubik and Banzhaf-Penrose-Coleman power indices",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": ["power_index"],
+  "author": "Arne Bittig",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
