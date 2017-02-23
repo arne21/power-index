@@ -6,6 +6,10 @@
   "scripts": {
     "test": "mocha"
   },
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/arne21/power-index.git"
+  },
   "keywords": ["power_index"],
   "author": "Arne Bittig",
   "license": "MIT",
