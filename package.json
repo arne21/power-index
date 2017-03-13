@@ -1,6 +1,6 @@
 {
   "name": "power-index",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "straightforward calculation of Shapley-Shubik and Banzhaf-Penrose-Coleman power indices",
   "main": "index.js",
   "scripts": {
